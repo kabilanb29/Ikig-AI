@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\components",
+    "\\client\\src\\components\\Dashboard",
+    "\\client\\src\\components\\Mainpage",
+    "\\client\\src\\components\\StressDetection",
+    "\\client\\src\\components\\Workshops",
+    "\\server",
+    "\\server\\Stress_Model"
+  ],
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\Work\\Mini _project_S5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\Work\\Mini _project_S5\\server\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\Work\\Mini _project_S5\\client\\src\\components\\Dashboard\\Dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\components\\Dashboard\\Dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\Work\\Mini _project_S5\\client\\src\\components\\Dashboard\\Dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\components\\Dashboard\\Dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\Work\\Mini _project_S5\\client\\src\\components\\Mainpage\\MainPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\components\\Mainpage\\MainPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\Work\\Mini _project_S5\\client\\src\\components\\StressDetection\\StressDetection.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\components\\StressDetection\\StressDetection.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\Work\\Mini _project_S5\\client\\src\\components\\Workshops\\Workshops.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\components\\Workshops\\Workshops.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\Work\\Mini _project_S5\\client\\src\\components\\Workshops\\workshopsData.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\components\\Workshops\\workshopsData.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\Work\\Mini _project_S5\\client\\src\\reportWebVitals.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\reportWebVitals.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\Work\\Mini _project_S5\\client\\src\\setupProxy.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\setupProxy.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\Work\\Mini _project_S5\\client\\src\\components\\StressDetection\\StressDetection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\components\\StressDetection\\StressDetection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\Work\\Mini _project_S5\\server\\stress_model.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\stress_model.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\Work\\Mini _project_S5\\client\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\Work\\Mini _project_S5\\client\\src\\components\\ChatBot\\ChatBot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\components\\ChatBot\\ChatBot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\Work\\Mini _project_S5\\client\\src\\components\\Mainpage\\MainPage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\components\\Mainpage\\MainPage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\Work\\Mini _project_S5\\client\\src\\components\\ChatBot\\ChatBot.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\components\\ChatBot\\ChatBot.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\Work\\Mini _project_S5\\client\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 255,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.js",
+              "DocumentMoniker": "K:\\Work\\Mini _project_S5\\client\\src\\components\\Mainpage\\MainPage.js",
+              "RelativeDocumentMoniker": "client\\src\\components\\Mainpage\\MainPage.js",
+              "ToolTip": "K:\\Work\\Mini _project_S5\\client\\src\\components\\Mainpage\\MainPage.js",
+              "RelativeToolTip": "client\\src\\components\\Mainpage\\MainPage.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-18T04:18:18.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.js",
+              "DocumentMoniker": "K:\\Work\\Mini _project_S5\\client\\src\\components\\Dashboard\\Dashboard.js",
+              "RelativeDocumentMoniker": "client\\src\\components\\Dashboard\\Dashboard.js",
+              "ToolTip": "K:\\Work\\Mini _project_S5\\client\\src\\components\\Dashboard\\Dashboard.js",
+              "RelativeToolTip": "client\\src\\components\\Dashboard\\Dashboard.js",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-18T04:16:49.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.css",
+              "DocumentMoniker": "K:\\Work\\Mini _project_S5\\client\\src\\components\\Dashboard\\Dashboard.css",
+              "RelativeDocumentMoniker": "client\\src\\components\\Dashboard\\Dashboard.css",
+              "ToolTip": "K:\\Work\\Mini _project_S5\\client\\src\\components\\Dashboard\\Dashboard.css",
+              "RelativeToolTip": "client\\src\\components\\Dashboard\\Dashboard.css",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-18T04:13:36.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Workshops.js",
+              "DocumentMoniker": "K:\\Work\\Mini _project_S5\\client\\src\\components\\Workshops\\Workshops.js",
+              "RelativeDocumentMoniker": "client\\src\\components\\Workshops\\Workshops.js",
+              "ToolTip": "K:\\Work\\Mini _project_S5\\client\\src\\components\\Workshops\\Workshops.js",
+              "RelativeToolTip": "client\\src\\components\\Workshops\\Workshops.js",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-18T03:52:37.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "workshopsData.js",
+              "DocumentMoniker": "K:\\Work\\Mini _project_S5\\client\\src\\components\\Workshops\\workshopsData.js",
+              "RelativeDocumentMoniker": "client\\src\\components\\Workshops\\workshopsData.js",
+              "ToolTip": "K:\\Work\\Mini _project_S5\\client\\src\\components\\Workshops\\workshopsData.js",
+              "RelativeToolTip": "client\\src\\components\\Workshops\\workshopsData.js",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-18T03:52:33.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "reportWebVitals.js",
+              "DocumentMoniker": "K:\\Work\\Mini _project_S5\\client\\src\\reportWebVitals.js",
+              "RelativeDocumentMoniker": "client\\src\\reportWebVitals.js",
+              "ToolTip": "K:\\Work\\Mini _project_S5\\client\\src\\reportWebVitals.js",
+              "RelativeToolTip": "client\\src\\reportWebVitals.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-18T03:45:10.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "setupProxy.js",
+              "DocumentMoniker": "K:\\Work\\Mini _project_S5\\client\\src\\setupProxy.js",
+              "RelativeDocumentMoniker": "client\\src\\setupProxy.js",
+              "ToolTip": "K:\\Work\\Mini _project_S5\\client\\src\\setupProxy.js",
+              "RelativeToolTip": "client\\src\\setupProxy.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-18T03:45:00.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StressDetection.js",
+              "DocumentMoniker": "K:\\Work\\Mini _project_S5\\client\\src\\components\\StressDetection\\StressDetection.js",
+              "RelativeDocumentMoniker": "client\\src\\components\\StressDetection\\StressDetection.js",
+              "ToolTip": "K:\\Work\\Mini _project_S5\\client\\src\\components\\StressDetection\\StressDetection.js",
+              "RelativeToolTip": "client\\src\\components\\StressDetection\\StressDetection.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-18T03:38:16.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "server.js",
+              "DocumentMoniker": "K:\\Work\\Mini _project_S5\\server\\server.js",
+              "RelativeDocumentMoniker": "server\\server.js",
+              "ToolTip": "K:\\Work\\Mini _project_S5\\server\\server.js",
+              "RelativeToolTip": "server\\server.js",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAAAAIBAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-28T09:19:14.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.js",
+              "DocumentMoniker": "K:\\Work\\Mini _project_S5\\client\\src\\index.js",
+              "RelativeDocumentMoniker": "client\\src\\index.js",
+              "ToolTip": "K:\\Work\\Mini _project_S5\\client\\src\\index.js",
+              "RelativeToolTip": "client\\src\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-18T03:38:03.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChatBot.css",
+              "DocumentMoniker": "K:\\Work\\Mini _project_S5\\client\\src\\components\\ChatBot\\ChatBot.css",
+              "RelativeDocumentMoniker": "client\\src\\components\\ChatBot\\ChatBot.css",
+              "ToolTip": "K:\\Work\\Mini _project_S5\\client\\src\\components\\ChatBot\\ChatBot.css",
+              "RelativeToolTip": "client\\src\\components\\ChatBot\\ChatBot.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-18T03:34:04.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StressDetection.css",
+              "DocumentMoniker": "K:\\Work\\Mini _project_S5\\client\\src\\components\\StressDetection\\StressDetection.css",
+              "RelativeDocumentMoniker": "client\\src\\components\\StressDetection\\StressDetection.css",
+              "ToolTip": "K:\\Work\\Mini _project_S5\\client\\src\\components\\StressDetection\\StressDetection.css",
+              "RelativeToolTip": "client\\src\\components\\StressDetection\\StressDetection.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-18T03:33:30.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainPage.css",
+              "DocumentMoniker": "K:\\Work\\Mini _project_S5\\client\\src\\components\\Mainpage\\MainPage.css",
+              "RelativeDocumentMoniker": "client\\src\\components\\Mainpage\\MainPage.css",
+              "ToolTip": "K:\\Work\\Mini _project_S5\\client\\src\\components\\Mainpage\\MainPage.css",
+              "RelativeToolTip": "client\\src\\components\\Mainpage\\MainPage.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-18T03:33:13.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChatBot.js",
+              "DocumentMoniker": "K:\\Work\\Mini _project_S5\\client\\src\\components\\ChatBot\\ChatBot.js",
+              "RelativeDocumentMoniker": "client\\src\\components\\ChatBot\\ChatBot.js",
+              "ToolTip": "K:\\Work\\Mini _project_S5\\client\\src\\components\\ChatBot\\ChatBot.js",
+              "RelativeToolTip": "client\\src\\components\\ChatBot\\ChatBot.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-21T05:17:02.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.js",
+              "DocumentMoniker": "K:\\Work\\Mini _project_S5\\client\\src\\App.js",
+              "RelativeDocumentMoniker": "client\\src\\App.js",
+              "ToolTip": "K:\\Work\\Mini _project_S5\\client\\src\\App.js",
+              "RelativeToolTip": "client\\src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-18T03:29:38.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "stress_model.py",
+              "DocumentMoniker": "K:\\Work\\Mini _project_S5\\server\\stress_model.py",
+              "RelativeDocumentMoniker": "server\\stress_model.py",
+              "ToolTip": "K:\\Work\\Mini _project_S5\\server\\stress_model.py",
+              "RelativeToolTip": "server\\stress_model.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-21T05:17:09.878Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
