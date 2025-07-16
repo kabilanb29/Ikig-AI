@@ -79,11 +79,11 @@ The client will communicate with the backend server for stress detection and rel
   
 ## Contributors
 
-- [Jayamurugan-Neko](https://github.com/Jayamurugan-Neko) (JAYAMURUGAN VM) • Collaborator
-- [Karthikk1803](https://github.com/Karthikk1803) (Gurukarthik B) • Collaborator
-- [raheesh-23](https://github.com/raheesh-23) • Collaborator
-- [Sunilg18](https://github.com/Sunilg18) • Collaborator
-
+- [Karthikk1803](https://github.com/Karthikk1803) (GURUKARTHIK B)
+- [Jayamurugan-Neko](https://github.com/Jayamurugan-Neko) (JAYAMURUGAN VM)
+- [raheesh-23](https://github.com/raheesh-23) • (RAHEESH A)
+- [Sunilg18](https://github.com/Sunilg18) • (SUNIL G)
+  
 ## 📄 License
 
 MIT License.
