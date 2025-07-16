@@ -76,6 +76,13 @@ The client will communicate with the backend server for stress detection and rel
 - **Personal Stress Management:** Self-monitor and ease your stress.
 - **Workplace Wellness:** Support employee mental health.
 - **Educational Environments:** Help students and educators maintain balance.
+  
+## Contributors
+
+- [Jayamurugan-Neko](https://github.com/Jayamurugan-Neko) (JAYAMURUGAN VM) • Collaborator
+- [Karthikk1803](https://github.com/Karthikk1803) (Gurukarthik B) • Collaborator
+- [raheesh-23](https://github.com/raheesh-23) • Collaborator
+- [Sunilg18](https://github.com/Sunilg18) • Collaborator
 
 ## 📄 License
 
